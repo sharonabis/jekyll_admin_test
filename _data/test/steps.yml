@@ -1,0 +1,14 @@
+text_yes: 'QUI'
+text_no: 'NON'
+question: Question
+title:  Lorem ipsum dolor sit amet.
+steps:
+  - question:  Lorem ipsum dolor sit amet.
+    type: yesno
+  
+  - question:  Lorem ipsum dolor sit amet.
+    type: yesno
+
+search:  Lorem ipsum dolor sit amet.
+find:  Lorem ipsum dolor sit amet.
+continue_cta: continue
